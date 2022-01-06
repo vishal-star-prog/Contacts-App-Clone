@@ -10,7 +10,7 @@ Steps to run the app
 3.Create a firebase project <br/>
 4.Enable firestore database and authentication in firebase app <br/>
 4.Connect the android studio app to google firebase in tools section of Android Studio <br/>
-5.Add SHA1 fingerprint to the firebase app from Android Studio gradle sigingreport <br/>
+5.Add SHA1 fingerprint to the firebase app from Android Studio gradle signingreport <br/>
 6.Now the app is connected to the firebase and you can run it.  <br/>
 
 
