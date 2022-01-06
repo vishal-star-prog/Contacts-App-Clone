@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929312088810",
+    "project_id": "contacts-164a5",
+    "storage_bucket": "contacts-164a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929312088810:android:ac6c0b69bcd77ced10ad93",
+        "android_client_info": {
+          "package_name": "com.vishalp.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929312088810-3njoa3hvrp0ud2a7b9v1t8hetj63mo9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCptoa76ysqvoDkzZ1YRWtet0akCI58XE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929312088810-3njoa3hvrp0ud2a7b9v1t8hetj63mo9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
